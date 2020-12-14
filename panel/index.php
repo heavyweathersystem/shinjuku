@@ -43,7 +43,7 @@
                                     		<span class="byline">How are you today?</span>
                                 	</header>
                                 	<a href="#files" class="jumplink pic">
-                                    		<img src="images/cute.png" alt="" />
+                                    		<img src="images/bepis.jpg" alt="" />
                                 	</a>
                             	</article>
                         </div>
